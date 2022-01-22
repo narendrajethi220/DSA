@@ -13,7 +13,7 @@ int main()
 		 c=a+b;
          a=b;
          b=c;
-         sum+=c;
+         sum=c;
     }
     cout<<sum;
     return 0;
